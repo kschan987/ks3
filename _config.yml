@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "KS CHAN"
 title_separator          : "-"
-name                     : &name Kin Shing CHAN
-description              : &description "personal description"
+name                     : "Kin Shing CHAN"
+description              : "MPhil student in Mathematics in Hong Kong Baptist University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kin Shing Chan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong"
+  employer         : "Hong Kong Baptist University"
   uri              : # URL
   email            : "none@example.org" 
 
